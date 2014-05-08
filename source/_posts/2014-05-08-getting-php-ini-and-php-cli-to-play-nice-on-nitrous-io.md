@@ -15,6 +15,6 @@ php -c /home/action/.parts/etc/php5/php.ini /home/action/.parts/bin/sculpin gene
 
 Relevant Links
 ==============
-http://stackoverflow.com/questions/12108207/php-date-timezone-not-working-correctly-for-command-line-script-only
+[http://stackoverflow.com/questions/12108207/php-date-timezone-not-working-correctly-for-command-line-script-only](http://stackoverflow.com/questions/12108207/php-date-timezone-not-working-correctly-for-command-line-script-only)
 
-https://github.com/nitrous-io/autoparts/issues/110
+[https://github.com/nitrous-io/autoparts/issues/110](https://github.com/nitrous-io/autoparts/issues/110)
